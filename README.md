@@ -6,6 +6,7 @@ Snake game is:
 - Google Extension
 - Snake Game
 - For Your Browser
+
 With:
 - Easy
 - Hard
